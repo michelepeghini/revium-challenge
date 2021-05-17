@@ -3,6 +3,9 @@
 ## NOTES TO ASSESSOR
 This is a very basic implementation, which makes use of hardcoded data and local images. It took me 4h to implement.
 In the next 2/3 days I would like to add fetching of images via Unsplash API using Axios and state management with VueX, sorry I did not have time to do it outright.
+
+UPDATE: added **composition-api** branch, which makes use of the setup function.
+
 So far, I have made the following components:
 
 ---
